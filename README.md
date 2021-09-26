@@ -1,7 +1,7 @@
 ### Health Welfare Organization
 Non-profit organizations to ensure the health of the underprivileged.
 
-#### What has been used
+#### What tools has been used
 It is created using react javascript and vanila css
 
 #### which font has been used
