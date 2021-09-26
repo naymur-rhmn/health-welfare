@@ -1,0 +1,22 @@
+.added-doctor-box {
+    /* background-color: #22577A; */
+    background-color: lightslategray;
+    color: #f5eded;
+    padding: 15px;
+    border-radius: 5px;
+}
+.doctor-title {
+    text-align: center;
+    background-color: #22577A;
+    border-radius: 3px;
+    padding: 15px 0;
+}
+.doctorlist {
+    color: rgb(27, 25, 25);
+}
+.added-doctor {
+    margin-top: 10px;
+    background-color: #38A3A5;
+    padding: 5px 10px;
+    border-radius: 3px;
+}

@@ -1,0 +1,54 @@
+.single-doctor {
+    background-color: #38A3A5;
+    text-align: center;
+    padding: 25px 0;
+    border-radius: 5px;
+}
+
+.doctor-img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+.single-doctor p {
+    color: rgb(29, 28, 27);
+    font-size: 18px;
+    color: rgb(238, 236, 236);
+    font-weight: 500;
+}
+.single-doctor p span {
+    font-weight: 400;
+}
+/* button style */
+.doctor-btn {
+    background-color: ghostwhite;
+    height: 40px;
+    width: 130px;
+    border: none;
+    cursor: pointer;
+    border-radius: 3px;
+    margin-top: 12px;
+    color: #22577A;
+    font-size: 16px;
+    font-weight: 600;
+}
+.doctor-btn:hover {
+    background-color: #ffffff;
+}
+/* social icon */
+.social-icon span {
+    display: inline-block;
+    margin-top: 15px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.social-icon span a {
+    color: rgb(23, 42, 18);
+    background-color: transparent;
+    display: block;
+    cursor: pointer;
+}
+.social-icon span a i.fab {
+    font-size: 44px;
+}

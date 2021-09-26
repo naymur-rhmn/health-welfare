@@ -1,0 +1,18 @@
+.doctors-container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    padding-left: 5%;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    background-color: rgba(220, 220, 220, 0.726);
+}
+.doctor-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+}
+.doctor-count {
+    padding-left: 10%;
+    padding-right: 15px;
+    color: #38A3A5;
+}

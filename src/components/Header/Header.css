@@ -1,0 +1,20 @@
+.header {
+    background-color: #22577A;
+    text-align: center;
+    color: rgb(236, 234, 234);
+    padding: 16px 0;
+}
+.header h1 {
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+.header p {
+    font-size: 18px;
+    color: rgb(231, 222, 222);
+    width: 50%;
+    margin: 0 auto;
+}
+.header h2 {
+    font-size: 48px;
+    margin-top: 15px;
+}
