@@ -9,3 +9,6 @@ Used google fonts 'poppins'
 
 #### which icon has been used
 Used font awesome icon
+
+##### About
+This is a Single Page Application(SPA) designed unique and simply.
